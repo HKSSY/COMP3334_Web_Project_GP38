@@ -1,1 +1,1 @@
-# COMP3334_Web_Project_GP38
+# COMP3334 Web Project
